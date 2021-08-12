@@ -14,3 +14,5 @@ and [inversifyContainer.test.ts](./src/containers/inversifyContainer.test.ts) is
 
 [index.ts](./src/index.ts) is the public facing (dummy) API to be used by client applications
 
+[npm package](https://www.npmjs.com/package/sky-ioc-assessment) can be found here.
+
